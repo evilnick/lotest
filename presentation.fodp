@@ -671,7 +671,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="subtitle">
      <draw:text-box>
-      <text:p>Test of diff</text:p>
+      <text:p>Will it work?</text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp2">
